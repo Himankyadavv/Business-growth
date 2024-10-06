@@ -1,6 +1,6 @@
 import illustration from '../assets/illustration.png'
 
-export function AboutUsMiddle() {
+export function Middle() {
     return (
         <div className="bg-[#f2f5f9] px-4 py-8 sm:px-6 sm:py-12 md:px-8 md:py-16 lg:p-[3rem] w-full">
             <div className="flex flex-col lg:flex-row justify-between items-center lg:items-start gap-8 lg:gap-12">
